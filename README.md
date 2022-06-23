@@ -24,5 +24,6 @@ This is based on the job offers that I can find online.
 - [ ] Microservices
 
 ### Contact me
-[Gmail](mailto:arustguy@gmail.com)
-
+<a href="mailto:arustguy@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://lh3.googleusercontent.com/Uk5_ENe4t7dNpIGCApDiRqbC0G9LP1isc4s4gVja3UKKx1grWd6yocLL1IW4Lnyn067q=w36-h36" />
+</a>
