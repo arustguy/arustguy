@@ -7,19 +7,19 @@ This is my page for my Rust journey. I will update my progress in this repo. Art
 - [ ] Article two 
 
 ### Courses that I finish
-[x] Course one
-[-] Course two
+- [x] Course one
+- [ ] Course two
 
 ### Ebooks that I read
-[-] [The Rust Programming Language](https://doc.rust-lang.org/book)     
+- [ ] [The Rust Programming Language](https://doc.rust-lang.org/book)     
 ![50%](https://progress-bar.dev/80)
-[-] Ebook two
+- [ ] Ebook two
 
 ### PRs that I contributed with Rust
-[-] PR One
-[-] PR Two
+- [ ] PR One
+- [ ] PR Two
 
 ### Things I learn along with Rust
 This is based on the job offers that I can find online.
-[-] Distributed systems
-[-] Microservices
+- [ ] Distributed systems
+- [ ] Microservices
