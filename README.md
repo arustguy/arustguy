@@ -11,7 +11,7 @@ This is my page for my Rust journey. I will update my progress in this repo. Art
 - [ ] Course two
 
 ### Ebooks that I read
-- [ ] [The Rust Programming Language](https://doc.rust-lang.org/book) █████████████░░░░░░░░░░░ 50%
+- [ ] [The Rust Programming Language](https://doc.rust-lang.org/book) 🟩🟩🟩🟩🟩░░░░░ 50%
 - [ ] Ebook two
 
 ### PRs that I contributed with Rust
