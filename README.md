@@ -4,7 +4,7 @@ This is my page for my Rust journey. I will update my progress in this repo. Art
 
 ### Articles that I read
 - [x] [Why discord is switching from go to rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
-- [] Article two 
+- [ ] Article two 
 
 ### Courses that I finish
 [x] Course one
